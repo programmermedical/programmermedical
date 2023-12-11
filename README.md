@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zainalsaputra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/zainalsaputra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- ⚡ Fun fact **I like playing basketball and guitar**
+- ⚡ Fun fact **I am handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
