@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmermedical&label=Profile%20views&color=ff0000&style=flat" alt="programmermedical" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmermedical" alt="programmermedical" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmermedical&theme=matrix" alt="programmermedical" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zans001" target="blank"><img src="https://img.shields.io/twitter/follow/zans001?logo=twitter&style=for-the-badge" alt="zans001" /></a> </p>
 
